@@ -67,3 +67,15 @@ This app is not endorsed or affiliated by WhatsApp. Most of the stickers are use
 The Telegram stickers in this app are published with permission from Telegram, obtained at thecompanyabsolute@gmail.com
 
 We keep expanding the boundaries of what you can do with a sticker. Don’t wait anymore for and catch up with Sticker Central — join the stickers uprising today.
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl1.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl2.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl3.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl4.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl5.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/Sticker-Central/master/sl6.png?raw=true "Title")
